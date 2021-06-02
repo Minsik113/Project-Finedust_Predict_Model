@@ -1,1 +1,1 @@
-print('w')
+print('wwww')
