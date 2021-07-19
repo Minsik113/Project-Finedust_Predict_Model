@@ -5,4 +5,4 @@
 title: Fine dust(PM10) Predict Model
 tool: R Studio
 
-web:https://fern-diagnostic-2b3.notion.site/30b77de204a141c39031bccd81f27821
+web:https://fern-diagnostic-2b3.notion.site/065c4b36a0ab416fa83a954a5fbb1370
