@@ -202,8 +202,7 @@ Hidden Layer와 Node의 수를 조절하여 여러 번의 예측을 진행한 �
 
 회의록: https://fern-diagnostic-2b3.notion.site/065c4b36a0ab416fa83a954a5fbb1370
 
-![image](https://user-images.githubusercontent.com/54586341/126370839-662310b9-1ba3-40b3-afc3-a52d0c34bb23.png)
-
+![3](https://user-images.githubusercontent.com/54586341/128074441-978f3125-5b7f-47a0-a1f9-a6cb5d47eba9.JPG)
 
 개발일정
 
